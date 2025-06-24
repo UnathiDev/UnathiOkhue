@@ -8,7 +8,7 @@ I'm currently studying BSc Informatics at UNISA and building tools that empower 
 - Inventory Management System
 
 ## 📫 Connect With Me
-- Website: [unathiokhue.dev](https://jazzy-torte-3adf7a.netlify.app)
+- Website: [unathiokhue.dev](https://unathidev.github.io/Unathi-Okhue-Skye/)
 - Blog: [Skye Articles](https://jazzy-torte-3adf7a.netlify.app/articles/indexarticles)
 - LinkedIn: [linkedin.com/in/unathiokhue](https://linkedin.com/in/unathiokhue)
 - Instagram: [@novaero7](https://instagram.com/unathiokhue)
