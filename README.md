@@ -1,2 +1,18 @@
-# UnathiOkhue
-Welcome to the official GitHub of Unathi Okhue — software developer, AI enthusiast &amp; founder of Skye. Passionate about building sustainable, intelligent systems using Python, C++, Java &amp; emerging AI tech. 🎓 BSc Informatics | 🌍 South Africa | 💡 Solving real-world problems through code.
+# 👋🏽 Hi, I’m Unathi Okhue
+
+I'm a developer, founder of [Skye](https://jazzy-torte-3adf7a.netlify.app) and innovator building solutions in **sustainable tech** and **AI**. 
+I'm currently studying BSc Informatics at UNISA and building tools that empower households, schools and industries through automation.
+
+## 🔧 Current Projects In Progress
+- Pharmacy Management System
+- Inventory Management System
+
+## 📫 Connect With Me
+- Website: [unathiokhue.dev](https://jazzy-torte-3adf7a.netlify.app)
+- Blog: [Skye Articles](https://jazzy-torte-3adf7a.netlify.app/articles/indexarticles)
+- LinkedIn: [linkedin.com/in/unathiokhue](https://linkedin.com/in/unathiokhue)
+- Instagram: [@novaero7](https://instagram.com/unathiokhue)
+- Facebook: [@UnathiOkhue](https://www.facebook.com/unathi.okhue.332?rdid=SmjD7c7ca8feKW7B&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18epNfArTz%2F)
+- X: [@novaero](https://x.com/aero_unstar?t=XVhGEDkdQ36KwkOTIfLcew&s=09)
+
+> Let’s shape the future — sustainably, intelligentl and ethically.
