@@ -15,4 +15,4 @@ I'm currently studying BSc Informatics at UNISA and building tools that empower 
 - Facebook: [@UnathiOkhue](https://www.facebook.com/unathi.okhue.332?rdid=SmjD7c7ca8feKW7B&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18epNfArTz%2F)
 - X: [@novaero](https://x.com/aero_unstar?t=XVhGEDkdQ36KwkOTIfLcew&s=09)
 
-> Let’s shape the future — sustainably, intelligentl and ethically.
+> Let’s shape the future — sustainably, intelligently and ethically.
