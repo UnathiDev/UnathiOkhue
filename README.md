@@ -3,9 +3,11 @@
 I'm a developer, founder of [Skye](https://jazzy-torte-3adf7a.netlify.app) and innovator building solutions in **sustainable tech** and **AI**. 
 I'm currently studying BSc Informatics at UNISA and building tools that empower households, schools and industries through automation.
 
-## 🔧 Current Projects In Progress
-- Pharmacy Management System
-- Inventory Management System
+## 🔧 Current Projects 
+- School Management System [✓]
+- Inventory Management System [✓]
+- Pharmacy Management System [inprogress]
+- Client & Service Management System [inprogress]
 
 ## 📫 Connect With Me
 - Website: [unathiokhue.dev](https://unathidev.github.io/Unathi-Okhue-Skye/)
