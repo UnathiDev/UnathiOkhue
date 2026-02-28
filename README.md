@@ -17,6 +17,7 @@ Core Languages: C++, Java, Python.
 Informatics Interests: Systems Analysis, Information Ethics and Human-Centric UI/UX Design.
 
 📫 Connect & Collaborate
+
 Portfolio: [Unathi Okhue](https://unathiokhue.netlify.app)
 Work: [Skye Ecotech](https://skyeecotech.co.za)
 Phone: [+27 71 048 0425](+27710480425)
